@@ -1,0 +1,14 @@
+Project: xv6-labs-2024 Lab5 Networking
+Base System: MIT xv6 (RISC-V)
+Lab Version: xv6-labs-2024 (official)
+
+OS Environment:
+- Host OS: Linux / WSL2
+- QEMU Version: 7.2.x (no user-net backend)
+- GCC Toolchain: riscv64-unknown-elf-gcc
+- Make Version: GNU Make
+
+Experiment Scope:
+- NIC driver: e1000
+- Network stack: ARP / IP / UDP
+- Test program: nettest (user/nettest.c)

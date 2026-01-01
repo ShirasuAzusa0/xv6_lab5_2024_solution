@@ -1,0 +1,12 @@
+xv6 kernel is booting
+
+hart 1 starting
+hart 2 starting
+init: starting sh
+$ nettest txone
+txone: sending one packet
+$ nettest txone
+txone: sending one packet
+arp_rx: received an ARP packet
+ip_rx: received an IP packet
+QEMU: Terminated
